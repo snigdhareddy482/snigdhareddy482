@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @snigdhareddy482
 - 👀 I’m interested in coding and drawing
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on still not decided😅
+- 🌱 I’m currently learning data science and ml
 - 📫 How to reach me @snigdhareddy482
 
 <!---
